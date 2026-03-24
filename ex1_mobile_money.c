@@ -1,6 +1,5 @@
 /* Name. : Nambatya Bushirat*/
-/* Student number : 2500801405*/
-/* Registration number : U/BIO/01405/PD */
+/* 2500801405 : 25/U/BIO/01405/PD */
 #include <stdio.h>
 
 int main() {
@@ -14,8 +13,7 @@ float amount, fee_percent,fee ,total;
  //calculations
  fee =(fee_percent/100)*amount;
  total =amount +fee ;
- 
- // outputs 
+//outputs 
  printf("transaction fee : %.2f Ugx" ,fee);
  printf("total amount deducted :%.2f Ugx",total);
  return 0;
