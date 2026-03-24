@@ -1,7 +1,6 @@
 
 /* Nambatya Bushirat*/
-/* Student number 2500801405*/
-/*Registration number U/BIO/01405/PD */
+/* 2500801405 : 25/U/BIO/01405/PD
 #include <stdio.h>
 
 int main() {
