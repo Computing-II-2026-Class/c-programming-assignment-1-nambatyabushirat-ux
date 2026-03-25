@@ -1,4 +1,4 @@
-/* Name: Nambatya Bushirat*/
+/* Name :  Nambatya Bushirat*/
 /*Student number: U/BIO/01405/PD */
 #include <stdio.h>
 int main() {
