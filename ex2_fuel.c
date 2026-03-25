@@ -1,5 +1,5 @@
 /* Name :Nambatya Bushirat*/
-/*Student number: 2500801405 U/BIO/01405/PD */
+/*Student number: U/BIO/01405/PD */
 #include <stdio.h>
 int main() {
     float distance, fuel, efficiency;
