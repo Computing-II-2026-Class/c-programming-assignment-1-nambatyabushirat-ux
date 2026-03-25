@@ -5,17 +5,17 @@ int main() {
     float distance, fuel, efficiency;
 
     // input by the user
-    printf("Enter distance traveled (in km): ");
+    printf("Enter distance_traveled (in km): ");
     scanf("%f", &distance);
 
-    printf("Enter fuel used (in liters): ");
+    printf("Enter fuel_used (in liters): ");
     scanf("%f", &fuel);
 
     // Calculate fuel efficiency
     efficiency = distance / fuel;
 
     // output
-    printf("Fuel efficiency: %.2f km/L", efficiency);
+    printf("Fuel_efficiency: %.2f km/L \n", efficiency);
 
     return 0;
 }
